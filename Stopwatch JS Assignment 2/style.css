@@ -1,0 +1,38 @@
+
+body {
+    background-color: rgba(8, 113, 252, 0.247);
+    margin-top: 100px;
+}
+h2{
+    display: inline-block;
+    width: 10px;
+    margin: 15px;
+}
+button{
+    display: inline-block;
+    width: 80px;
+    margin: 15px;
+    border-radius: 5px;
+    background-color: rgba(7, 64, 221, 0.137);
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.438);
+
+}
+button:hover{
+    background-color: rgba(4, 66, 238, 0.473);
+}
+.a{
+    padding-top: 10px;
+    width: 370px;
+    height: 220px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.438);
+    background-color: rgba(234, 239, 243, 0.658);
+}
+.b{
+    width: 400px;
+    height: 50px;
+    margin-left: -15px;
+    border-radius: 10px;
+    background-color: rgb(7, 145, 187);
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.438);
+}
